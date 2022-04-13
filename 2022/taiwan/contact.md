@@ -2,12 +2,15 @@
 layout: location_detail
 partner_site: taiwan
 travel: true
-title: Contact Us
+title: Connect with Us: Social Media
 
 ---
 
-You can find us through the following social media
-- [YouTube](https://www.youtube.com/channel/UCZbU6pmPftz0iJWrAltSssw)
-- [Facebook](https://www.facebook.com/SICSSTaiwan)
-- [Discord] (https://discord.gg/QzMkc6h9MF)
-- Email us at sicss.taiwan.2021@gmail.com 
+Looking to engage with SICSS Taiwan in a fun and informal way? Connect with us on social media! You'll find relevant content, important SICSS Taiwan updates and deadlines, inside scoop, networking opportunities and more.
+
+Be sure to send us a message or tag us (#sicsstw) in SICSS Taiwan-related posts so we can reply or repost!
+- [SICSS TW Official Facebook ](https://www.facebook.com/SICSSTaiwan)
+- [SICSS TW Official Youtube Channel](https://www.youtube.com/channel/UCZbU6pmPftz0iJWrAltSssw)
+- [SICSS TW Official Discord ](https://discord.gg/QzMkc6h9MF)
+
+Email us at sicss.taiwan.2021@gmail.com 
